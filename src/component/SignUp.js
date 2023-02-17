@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from "../image/kiwify-green-logo.png"
 
-const login = () => {
+const SignUp = () => {
     return (
         <div>
             <div id='layout'>
@@ -76,4 +76,4 @@ const login = () => {
     );
 };
 
-export default login;
+export default SignUp;
